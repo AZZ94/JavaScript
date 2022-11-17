@@ -1,4 +1,4 @@
-let paragraf = document.querySelector('p1');
+let paragraf = document.querySelector('p');
 paragraf.textContent = 'Hello, world!';
 
 console.log(paragraf);
